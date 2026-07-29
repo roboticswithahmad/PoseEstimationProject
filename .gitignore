@@ -1,0 +1,8 @@
+*.task
+__pycache__/
+cv-env/
+.venv/
+venv/
+Poses/*.mp4
+pose.md
+\[MediaPipe_Python_Tasks\]_Pose_Landmarker.ipynb
